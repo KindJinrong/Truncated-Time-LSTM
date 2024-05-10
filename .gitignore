@@ -11,6 +11,7 @@
 *.bst
 *.blg
 *.spl
+*.pkl
 doc/
 .DS_Store
 fonts/
